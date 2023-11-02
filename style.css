@@ -1,0 +1,11 @@
+body {
+    background-image: url(/images/barber.jpeg);
+    background-position: 1fr;
+    background-size: 1fr;
+    background-repeat: no-repeat;
+}
+h1 {
+    background-color: white;
+    display: inline;
+    padding: 10px;
+}
